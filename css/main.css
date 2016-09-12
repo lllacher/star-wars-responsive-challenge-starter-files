@@ -1,0 +1,32 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: black;
+}
+
+header {
+  background-color: yellow;
+  margin-bottom: 35px;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+.card {
+  border: 1px solid gray;
+  margin-bottom: 20px; 
+}
+
+.card h3 {
+  padding: 20px 20px 0;
+  margin: 0;
+}
+
+.card p {
+  padding: 20px 20px 30px;
+  margin-top: 0;
+}
+
+img {
+  width: 100%;
+}
